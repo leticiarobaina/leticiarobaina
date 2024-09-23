@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Interested in QA, optimization, robotics, and data analysis. Currently exploring the intersection of electrical engineering and software development to create efficient and high-quality solutions.
+I am a QA Engineer with an organized, responsible and detail-oriented profile. Experience in working on Software Testing Life Cycle phases including test analysis, test
+case design and test execution (smoke, regression, integration, exploratory).
